@@ -1,0 +1,16 @@
+#Homedir config and necesary files. cautious settings
+/**
+!.gitignore
+!LS_COLORS
+!.symfony5
+!runsway.sh
+!.dir_colors
+!.vuerc
+!.zshrc
+!.profile
+!.zprofile
+!.vconsole.conf
+!.xinitrc
+!.xbindkeysrc
+!.httrack.ini
+!.xinitrcDefault
